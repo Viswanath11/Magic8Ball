@@ -3,8 +3,8 @@
 //  Magic8Ball
 //
 //  Created by Viswanath Subramani S S on 28/10/17.
+//	Assets provided by London App Brewery
 //  Copyright © 2017 ViswanathSubramaniSS. All rights reserved.
-//
 
 import UIKit
 
